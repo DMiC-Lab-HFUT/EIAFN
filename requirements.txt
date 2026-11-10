@@ -1,0 +1,6 @@
+torch>=1.10
+transformers==4.18.0
+tokenizers==0.12.1
+omegaconf==2.2.3
+pillow==9.3.0
+tqdm>=4.64
